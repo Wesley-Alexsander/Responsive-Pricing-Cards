@@ -1,4 +1,3 @@
-
 # Responsive Pricing Card
 
 Esta é uma replica de um codigo criado pelo canal Bedimcode, a ideia é estudar HTML e CSS responsivo por meio da criação de cartões de preço.
@@ -8,35 +7,39 @@ Durante este estudo, mudei algumas poucas coisas, para entender melhor o motivo 
 Fiz alguns comentarios para poder me organizar mentalmente nas proximas vezes em que eu estiver estudando.
 
 Este estudo também me permitio conhecer novas tags , como por exemplo:
-  
-  - clip-path: polygon();
-  - align-self
-  - place-items
+
+- clip-path: polygon();
+- align-self
+- place-items
 
 Estudarei melhor as tags acima, como por exemplo sua sintaxe e melhor modo de uso.
-
 
 <p> 
 <img src="./Assets/img/README.png"/>
 </p>
+<br/><br/>
+
+### <a href="https://wesley-alexsander.github.io/Responsive-Pricing-Cards/">See on github pages</a>
+
+<br/><br/>
 
 # 🚀 **Techs**
 
 - HTML
 - CSS
+  <br/><br/>
 
 # 📚​ **Library**
 
 - Google fonts
 - iconscout
+  <br/><br/>
 
 # 🎨 **Style Guide**
 
-
-
 ```css
 :root {
-   /*=========== Colors ===========*/
+  /*=========== Colors ===========*/
   --first-color: rgb(25, 138, 250);
   --first-color-light: rgb(100, 176, 252);
   --first-color-alt: rgb(4, 94, 185);
@@ -70,6 +73,8 @@ Estudarei melhor as tags acima, como por exemplo sua sintaxe e melhor modo de us
 }
 ```
 
+<br/><br/>
+
 ## **Tipo de fonte:**
 
 - font-family: 'Lato'
@@ -77,7 +82,8 @@ Estudarei melhor as tags acima, como por exemplo sua sintaxe e melhor modo de us
 
 - font-family: 'Rubik'
 - Font Weight: 400
+  <br/><br/>
 
 ## **Copyright**
 
-<a href="https://youtu.be/jE0A0w_jnf4?list=PLRcNKpORrIVOqfNQ24TXUSs8aePjJwCul" target="_blank">Bedimcode</a> 
+<a href="https://youtu.be/jE0A0w_jnf4?list=PLRcNKpORrIVOqfNQ24TXUSs8aePjJwCul" target="_blank">Bedimcode</a>
