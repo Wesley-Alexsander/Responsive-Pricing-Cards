@@ -28,7 +28,7 @@ Estudarei melhor as tags acima, como por exemplo sua sintaxe e melhor modo de us
 # 📚​ **Library**
 
 - Google fonts
-- Remix icon
+- iconscout
 
 # 🎨 **Style Guide**
 
