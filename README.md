@@ -17,7 +17,7 @@ Estudarei melhor as tags acima, como por exemplo sua sintaxe e melhor modo de us
 <p> 
 <img src="./Assets/img/README.png"/>
 </p>
-<br/><br/>
+<br/>
 
 ### <a href="https://wesley-alexsander.github.io/Responsive-Pricing-Cards/">See on github pages</a>
 
